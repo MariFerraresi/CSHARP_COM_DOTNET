@@ -1,0 +1,7 @@
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP COM DOTNET\ExemploAppConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.exe.config
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP COM DOTNET\ExemploAppConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP COM DOTNET\ExemploAppConsole\ExemploAppConsole\bin\Debug\ExemploAppConsole.pdb
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP COM DOTNET\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.csproj.AssemblyReference.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP COM DOTNET\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP COM DOTNET\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP COM DOTNET\ExemploAppConsole\ExemploAppConsole\obj\Debug\ExemploAppConsole.pdb
