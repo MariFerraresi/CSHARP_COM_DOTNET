@@ -1,0 +1,7 @@
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula06\Aula06\bin\Debug\Aula06.exe.config
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula06\Aula06\bin\Debug\Aula06.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula06\Aula06\bin\Debug\Aula06.pdb
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula06\Aula06\obj\Debug\Aula06.csproj.AssemblyReference.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula06\Aula06\obj\Debug\Aula06.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula06\Aula06\obj\Debug\Aula06.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula06\Aula06\obj\Debug\Aula06.pdb
