@@ -1,0 +1,7 @@
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\AulaTiposPrimitivos\AulaTiposPrimitivos\bin\Debug\AulaTiposPrimitivos.exe.config
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\AulaTiposPrimitivos\AulaTiposPrimitivos\bin\Debug\AulaTiposPrimitivos.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\AulaTiposPrimitivos\AulaTiposPrimitivos\bin\Debug\AulaTiposPrimitivos.pdb
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\AulaTiposPrimitivos\AulaTiposPrimitivos\obj\Debug\AulaTiposPrimitivos.csproj.AssemblyReference.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\AulaTiposPrimitivos\AulaTiposPrimitivos\obj\Debug\AulaTiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\AulaTiposPrimitivos\AulaTiposPrimitivos\obj\Debug\AulaTiposPrimitivos.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\AulaTiposPrimitivos\AulaTiposPrimitivos\obj\Debug\AulaTiposPrimitivos.pdb
