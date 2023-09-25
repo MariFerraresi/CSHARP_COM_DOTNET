@@ -1,0 +1,7 @@
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\LogicaCompra_Ex02\LogicaCompra_Ex02\bin\Debug\LogicaCompra_Ex02.exe.config
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\LogicaCompra_Ex02\LogicaCompra_Ex02\bin\Debug\LogicaCompra_Ex02.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\LogicaCompra_Ex02\LogicaCompra_Ex02\bin\Debug\LogicaCompra_Ex02.pdb
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\LogicaCompra_Ex02\LogicaCompra_Ex02\obj\Debug\LogicaCompra_Ex02.csproj.AssemblyReference.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\LogicaCompra_Ex02\LogicaCompra_Ex02\obj\Debug\LogicaCompra_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\LogicaCompra_Ex02\LogicaCompra_Ex02\obj\Debug\LogicaCompra_Ex02.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\LogicaCompra_Ex02\LogicaCompra_Ex02\obj\Debug\LogicaCompra_Ex02.pdb
