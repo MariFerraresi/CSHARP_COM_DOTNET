@@ -1,0 +1,7 @@
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\SomarDoisNumeros\SomarDoisNumeros\bin\Debug\SomarDoisNumeros.exe.config
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\SomarDoisNumeros\SomarDoisNumeros\bin\Debug\SomarDoisNumeros.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\SomarDoisNumeros\SomarDoisNumeros\bin\Debug\SomarDoisNumeros.pdb
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\SomarDoisNumeros\SomarDoisNumeros\obj\Debug\SomarDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\SomarDoisNumeros\SomarDoisNumeros\obj\Debug\SomarDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\SomarDoisNumeros\SomarDoisNumeros\obj\Debug\SomarDoisNumeros.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\SomarDoisNumeros\SomarDoisNumeros\obj\Debug\SomarDoisNumeros.pdb
