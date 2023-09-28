@@ -1,0 +1,10 @@
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\bin\Debug\Aula08_appDesktop.exe.config
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\bin\Debug\Aula08_appDesktop.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\bin\Debug\Aula08_appDesktop.pdb
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\obj\Debug\Aula08_appDesktop.csproj.AssemblyReference.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\obj\Debug\Aula08_appDesktop.Form1.resources
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\obj\Debug\Aula08_appDesktop.Properties.Resources.resources
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\obj\Debug\Aula08_appDesktop.csproj.GenerateResource.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\obj\Debug\Aula08_appDesktop.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\obj\Debug\Aula08_appDesktop.exe
+C:\Users\ideapad 330 81fe002b\Documents\Repositórios da Mari\CSHARP_COM_DOTNET\Aula08_appDesktop\Aula08_appDesktop\obj\Debug\Aula08_appDesktop.pdb
